@@ -1,0 +1,19 @@
+# CMake generation dependency list for this directory.
+C:/MainDic/sl_lua/CMakeLists.txt
+C:/MainDic/sl_lua/build/CMakeFiles/3.21.6/CMakeCXXCompiler.cmake
+C:/MainDic/sl_lua/build/CMakeFiles/3.21.6/CMakeRCCompiler.cmake
+C:/MainDic/sl_lua/build/CMakeFiles/3.21.6/CMakeSystem.cmake
+D:/OtherSoftware/Cmake/share/cmake-3.21/Modules/CMakeCXXInformation.cmake
+D:/OtherSoftware/Cmake/share/cmake-3.21/Modules/CMakeCommonLanguageInclude.cmake
+D:/OtherSoftware/Cmake/share/cmake-3.21/Modules/CMakeGenericSystem.cmake
+D:/OtherSoftware/Cmake/share/cmake-3.21/Modules/CMakeInitializeConfigs.cmake
+D:/OtherSoftware/Cmake/share/cmake-3.21/Modules/CMakeLanguageInformation.cmake
+D:/OtherSoftware/Cmake/share/cmake-3.21/Modules/CMakeRCInformation.cmake
+D:/OtherSoftware/Cmake/share/cmake-3.21/Modules/CMakeSystemSpecificInformation.cmake
+D:/OtherSoftware/Cmake/share/cmake-3.21/Modules/CMakeSystemSpecificInitialize.cmake
+D:/OtherSoftware/Cmake/share/cmake-3.21/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+D:/OtherSoftware/Cmake/share/cmake-3.21/Modules/Compiler/MSVC-CXX.cmake
+D:/OtherSoftware/Cmake/share/cmake-3.21/Modules/Platform/Windows-MSVC-CXX.cmake
+D:/OtherSoftware/Cmake/share/cmake-3.21/Modules/Platform/Windows-MSVC.cmake
+D:/OtherSoftware/Cmake/share/cmake-3.21/Modules/Platform/Windows.cmake
+D:/OtherSoftware/Cmake/share/cmake-3.21/Modules/Platform/WindowsPaths.cmake

@@ -1,0 +1,10 @@
+^C:\MAINDIC\SL_LUA\SOURCE\CMAKELISTS.TXT
+setlocal
+D:\OtherSoftware\Cmake\bin\cmake.exe -SC:/MainDic/sl_lua -BC:/MainDic/sl_lua/build --check-stamp-file C:/MainDic/sl_lua/build/source/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3504a47e-e87b-41d3-9ff9-ddb53ed3c2d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/source/binary_chunk.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/binary_chunk_reader.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/binary_chunk_reader.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/sl_lua.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.sl_lua.dir/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.sl_lua.dir/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.sl_lua.dir/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.sl_lua.dir/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sl_lua/Debug/sl_lua.exe.recipe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sl_lua/Debug/sl_lua.ilk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sl_lua/Debug/sl_lua.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sl_lua/Debug/sl_lua.tlog/CL.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sl_lua/Debug/sl_lua.tlog/CL.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sl_lua/Debug/sl_lua.tlog/CL.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sl_lua/Debug/sl_lua.tlog/link.command.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sl_lua/Debug/sl_lua.tlog/link.read.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sl_lua/Debug/sl_lua.tlog/link.write.1.tlog" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sl_lua/Debug/sl_lua.tlog/sl_lua.lastbuildstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sl_lua/Debug/sl_lua.vcxproj.FileListAbsolute.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sl_lua/Debug/vc142.idb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sl_lua/Debug/vc142.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sl_lua/binary_chunk.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sl_lua/sl_lua.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sl_lua/sl_lua.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sl_lua/sl_lua.vcxproj.filters" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EwSy4AAM5EZcRe9eOtMnnT963c" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3504a47e-e87b-41d3-9ff9-ddb53ed3c2d5" name="Changes" comment="" />
+      <created>1663505423387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663505423387</updated>
+    </task>
+    <servers />
+  </component>
+</project>

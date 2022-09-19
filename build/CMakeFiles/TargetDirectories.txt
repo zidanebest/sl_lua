@@ -1,0 +1,5 @@
+C:/MainDic/sl_lua/build/CMakeFiles/sl_lua_test.dir
+C:/MainDic/sl_lua/build/CMakeFiles/ALL_BUILD.dir
+C:/MainDic/sl_lua/build/CMakeFiles/ZERO_CHECK.dir
+C:/MainDic/sl_lua/build/source/CMakeFiles/sl_lua.dir
+C:/MainDic/sl_lua/build/source/CMakeFiles/ALL_BUILD.dir

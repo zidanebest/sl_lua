@@ -1,0 +1,10 @@
+^C:\MAINDIC\SL_LUA\BUILD\CMAKEFILES\75A0174CE4F05E3B020A40B776EE0CCB\GENERATE.STAMP.RULE
+setlocal
+D:\OtherSoftware\Cmake\bin\cmake.exe -SC:/MainDic/sl_lua -BC:/MainDic/sl_lua/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/MainDic/sl_lua/build/sl_lua_test.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
